@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "block"
+]
+
+resolver = "2"
