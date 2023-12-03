@@ -1,7 +1,7 @@
 [workspace]
 
 members = [
-    "block"
+    "block",
 ]
 
 resolver = "2"
